@@ -13,7 +13,7 @@ public class demo1 {
         System.out.println("hiii" );
          int a = 8,b=6;
          int c=a+b;
-          System.out.println(c);
+          System.out.println("addition"+c);
 		return "hallo2";
 	}
 
