@@ -6,6 +6,7 @@ import org.springframework.stereotype.Component;
 public class demo1 {
 	public String run() {
 		System.out.println("hallo");
+		System.out.println("god");
 		return "hallo2";
 	}
 
