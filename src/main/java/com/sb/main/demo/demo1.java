@@ -19,10 +19,15 @@ public class demo1 {
 
          int a = 8,b=6;
          int c=a+b;
+
+          System.out.println("addition"+c);
+		return "hallo2";
+
           System.out.println(c);
           System.out.println("hhhh");
 
-		return "hallo3";
+		
+
 	}
 
 }
