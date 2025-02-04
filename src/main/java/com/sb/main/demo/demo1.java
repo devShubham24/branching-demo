@@ -11,8 +11,9 @@ public class demo1 {
 		System.out.println(5==5);
         System.out.println(10+20);
         System.out.println("hiii" );
-
-
+         int a = 8,b=6;
+         int c=a+b;
+          System.out.println(c);
 		return "hallo2";
 	}
 
