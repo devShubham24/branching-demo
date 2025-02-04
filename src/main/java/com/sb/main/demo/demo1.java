@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class demo1 {
 	public String run() {
-		System.out.println("hallo word");
+		System.out.println("hiii");
 		return "hallo2";
 	}
 
